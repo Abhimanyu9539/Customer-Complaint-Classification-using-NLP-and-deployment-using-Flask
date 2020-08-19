@@ -1,0 +1,5 @@
+08-19 17:32 root         INFO     Connected to complaints_data.db
+08-19 17:32 werkzeug     INFO      * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+08-19 17:32 werkzeug     INFO     127.0.0.1 - - [19/Aug/2020 17:32:49] "[37mGET / HTTP/1.1[0m" 200 -
+08-19 17:32 werkzeug     INFO     127.0.0.1 - - [19/Aug/2020 17:32:49] "[37mGET /static/styles/main.css HTTP/1.1[0m" 200 -
+08-19 17:32 werkzeug     INFO     127.0.0.1 - - [19/Aug/2020 17:32:49] "[37mGET /static/header.png HTTP/1.1[0m" 200 -
